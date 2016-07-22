@@ -10,9 +10,9 @@
 ## CocoaPods使用
 本project使用了下列的第三方library：
 
-1. *Alamofire* HTTP用戶端，用來從網路上面下載檔案
-2. *SwiftyJSON* 更簡便的處理JSON資料
-3. *GradientView* 漸層的view架構，主要用來做圖片上面顯示資訊的overlay
-4. *SDWebImage* 簡易的處理網路圖檔專用library
+1. __Alamofire__ HTTP用戶端，用來從網路上面下載檔案
+2. __SwiftyJSON__ 更簡便的處理JSON資料
+3. __GradientView__ 漸層的view架構，主要用來做圖片上面顯示資訊的overlay
+4. __SDWebImage__ 簡易的處理網路圖檔專用library
 
 本app主要作為 [iOS App開發基礎班](https://www.csie.ntu.edu.tw/train/?page=course_info.html&courseid=1548) 展示用範例。
