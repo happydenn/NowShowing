@@ -7,6 +7,11 @@
 2. 顯示各項跟電影相關的基本資訊
 3. 顯示場次及時間
 
+## 注意事項
+1. 本project使用CocoaPods，請記得開啟 `NowShowing.xcworkspace` 而不是 `NowShowing.xcodeproj`
+2. 本project在場次部分使用了 `UICollectionViewController` ，這部分為補充的內容，可以試著看看有沒有辦法看懂！
+3. 本project也示範了很多在真正上架的app中常出現的UI pattern跟一些設計元素，大家也可以試著讓自己的project看起來更專業一點喔！
+
 ## CocoaPods使用
 本project使用了下列的第三方library：
 
